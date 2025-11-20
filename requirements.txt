@@ -1,0 +1,7 @@
+panel
+watchfiles
+jupyter_bokeh
+hvplot
+aind-data-access-api
+boto3
+httpx
