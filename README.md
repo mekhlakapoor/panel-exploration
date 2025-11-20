@@ -74,6 +74,5 @@ See `NOTES.md` for:
 ## Resources
 - [Panel Documentation](https://panel.holoviz.org/)
 - [Panel APIs Explanation](https://panel.holoviz.org/explanation/api/index.html)
-- [PyComponent Guide](https://panel.holoviz.org/how_to/custom_components/custom_components.html)
 - [Param Documentation](https://param.holoviz.org/)
 - [aind-qc-portal](https://github.com/AllenNeuralDynamics/aind-qc-portal)
